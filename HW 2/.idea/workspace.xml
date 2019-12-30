@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5eb869a-9aa5-4fb4-9edc-3ee4e3dcfa81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="1f84959d-52bc-4de9-a10a-9ee584414301">
+    <option name="files">
+      <option value="NijatMursali-HW2.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1UXGxJmUfIMrDIG37XmpBOQw4Li" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/HW" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5eb869a-9aa5-4fb4-9edc-3ee4e3dcfa81" name="Default Changelist" comment="" />
+      <created>1575495772001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575495772001</updated>
+      <workItem from="1575495776213" duration="500000" />
+      <workItem from="1575496620872" duration="22000" />
+      <workItem from="1575496703397" duration="1767000" />
+      <workItem from="1575498581671" duration="888000" />
+      <workItem from="1576066999189" duration="692000" />
+      <workItem from="1576068475494" duration="478000" />
+      <workItem from="1576068985141" duration="168000" />
+      <workItem from="1576069192819" duration="991000" />
+      <workItem from="1576073571315" duration="19000" />
+      <workItem from="1576074385865" duration="50000" />
+      <workItem from="1576090814934" duration="2970000" />
+      <workItem from="1576240791955" duration="17000" />
+      <workItem from="1576328837970" duration="2544000" />
+      <workItem from="1576331467478" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1576331484035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576331484035" />
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1576331385478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576331385478" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1576331385478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576331385478" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1576331385478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576331385478" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1576331385478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576331385478" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1576069844609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576069844609" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1576331467407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576331467407" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1576328881482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576328881482" />
+  </component>
+</project>
